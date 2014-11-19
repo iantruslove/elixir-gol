@@ -2,7 +2,7 @@ defmodule Elixir.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :elixir,
+    [app: :elixir_gol,
      version: "0.0.1",
      elixir: "~> 1.0",
      deps: deps]

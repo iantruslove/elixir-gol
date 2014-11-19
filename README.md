@@ -1,4 +1,4 @@
-Elixir
-======
+Elixir Game Of Life
+===================
 
-** TODO: Add description **
+Inspired by some work from Global Day of Code Retreat...
